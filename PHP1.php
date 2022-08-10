@@ -14,23 +14,57 @@
 
 <body>
     <h1><?php
-        $name = "MuhammadUzairIshfaq";
-        $x = 1217672;
-        $y = true;
 
-        $cars = array("Volvo","BMW","Toyota");
-  
+        $name = "Muhammad Uzair Ishfaq";
+        //  13
+        $x = 12.1;
+        $y = true;
+        $cars = array("Volvo", "BMW", "Toyota");
+        $Age = array(1, 2, 4, 5, 6, 7);
+
+
+
+        // -----------------------------Start  31- jul -22----------------------------------------
         // how to print and declare varabile 
         // echo "NAME: $name  $x <br> SP-2020-030";
-
-
         // check data type 
         // var_dump($name);
         // echo"<br>";
         // var_dump($x);
-
         // var_dump($y);
         // var_dump($cars);
+        // -----------------------------End  31- jul -22----------------------------------------
+
+        // -----------------------------Start 1- aug -22----------------------------------------
+        // -----------Strings function----------
+
+        // echo "Length Of The string Is : ",strlen($y);
+
+        // $CNIC=strlen($name);
+
+        // if($CNIC==13)
+        // {
+        //     echo"your put correct CNIC : ",$CNIC;
+        // }
+        // else{
+        //     echo" incorrect CNIC :",$CNIC;
+        // }
+        // echo "Length of Words :", str_word_count($name);
+
+        // echo"Reverse of string is : ",strrev($name);
+
+        // echo "String position is : ", strpos($name,'mmad')  ;
+
+        // str_replace("Uzair","zainb",$name);
+
+        // echo $name;
+
+        // echo var_dump(is_int($name));
+
+        $changevalue=(float)$x;
+
+        echo $changevalue ;
+
 
 
         ?></h1>
