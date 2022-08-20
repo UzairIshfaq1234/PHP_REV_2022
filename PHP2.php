@@ -14,13 +14,28 @@
         <h2>Zainb Pagal he</h2> -->
         <?php
         // echo"Muhammad Uzair";
-        $student="Uzair Ishfaq";
+        $student="Uzair ibrahim";
+        $student="Khadija";
+
+        // define("student","uzair");
+
+
+        // echo(student);
+
+        // echo($student);
         // -----------------20-AUG-2022---------------
         // ----------------STRING  FUNCTION--------
         // var_dump($student);
         // echo strlen($student);
         // echo str_word_count($student);
+        //  $reverse_string_is=strrev($student);
+        //  echo "The Reverse string is: ",$reverse_string_is;
+        // echo strpos($student,"Uzair");
+        // echo str_replace("Uzair","Khadija",$student);
 
+        // echo (sqrt(49));
+
+        // echo rand(1,99999999999);
 
 
 
