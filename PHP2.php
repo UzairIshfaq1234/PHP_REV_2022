@@ -17,7 +17,6 @@
         $student="Uzair ibrahim";
         $student="Khadija";
 
-        // define("student","uzair");
 
 
         // echo(student);
